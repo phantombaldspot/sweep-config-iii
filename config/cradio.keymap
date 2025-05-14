@@ -72,11 +72,6 @@
             bindings = <&kp DEL>;
             key-positions = <10 0>;
         };
-
-        allcaps {
-            bindings = <&kp CAPSLOCK>;
-            key-positions = <20 29>;
-        };
     };
 
     keymap {
